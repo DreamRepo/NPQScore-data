@@ -1,0 +1,3 @@
+param,param_type,operator,value
+surface,number,between,6;200
+strain_state,string,==,Pop-qE

@@ -1,0 +1,4 @@
+/dataset
+/filtered/*
+utils/__pycache__/*
+.idea/*
